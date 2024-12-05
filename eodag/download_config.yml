@@ -1,0 +1,8 @@
+geodatabase_path: '/Users/bradleywilson/Documents/Github/navy-uhi/data/priority_bases/M00263.gpkg'
+layer_name: 'M00263'
+productType: 'LANDSAT_C2L2_SR'
+start: '2015-06-01'
+end: '2023-08-30'
+start_month: 6
+end_month: 8
+
